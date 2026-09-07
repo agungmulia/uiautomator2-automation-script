@@ -1,0 +1,5 @@
+flask
+uiautomator2
+requests
+Pillow
+schedule
